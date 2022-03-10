@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Diamond!
+- 👀 I’m interested in Data Science and Analytics
+- 🌱 I’m currently learning Information Technology
+- 💞️ I’m looking to collaborate on predictive models and data mining
+- 📫 Dkburton@aggies.ncat.edu
